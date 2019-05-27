@@ -13,5 +13,14 @@ namespace HTMLHarjoitusMVC.Controllers
         {
             return View();
         }
+
+        public ActionResult Table()
+        {
+            return View();
+        }
+        public ActionResult Time()
+        {
+            return View();
+        }
     }
 }
